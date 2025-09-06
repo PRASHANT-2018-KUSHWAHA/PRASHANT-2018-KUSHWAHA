@@ -81,7 +81,7 @@ I'm a Technical Specialist and Full-Stack Developer passionate about building re
 
 ## ✨ Highlights:
 
-- 6+ years experience in Angular / Full-Stack Development
+- 7+ years experience in Angular / Full-Stack Development
 - 2+ years React.js & React Native experience
 - Strong cloud expertise: AWS, Elastic Search, S3
 - API Integrations: Stripe, Razorpay, dLocal, Socket.IO
