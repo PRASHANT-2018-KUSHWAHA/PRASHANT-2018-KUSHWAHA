@@ -1,4 +1,4 @@
-# Hi, I'm Prashant Singh Kushwaha 👋
+# Hi, I'm Prashant Singh Kushwaha 🧑‍💻
 
 I'm a Technical Specialist and Full-Stack Developer passionate about building responsive, scalable, and high-quality digital solutions.
 
@@ -47,6 +47,7 @@ I'm a Technical Specialist and Full-Stack Developer passionate about building re
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -81,7 +82,7 @@ I'm a Technical Specialist and Full-Stack Developer passionate about building re
 
 ## ✨ Highlights:
 
-- 7+ years experience in Angular / Full-Stack Development
+- 7+ years of experience in Angular / Full-Stack Development
 - 2+ years React.js & React Native experience
 - Strong cloud expertise: AWS, Elastic Search, S3
 - API Integrations: Stripe, Razorpay, dLocal, Socket.IO
